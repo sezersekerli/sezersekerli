@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sezersekerli
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning new software languages and statistics.
+- 👀 I’m interested in Data Engineering
+- 🌱 I’m currently learning new software languages, data engineering lifecylce deeply.
 - 📫 How to reach me sezersekerli@gmail.com
